@@ -1,6 +1,6 @@
 import os
 
-path = "./"
+path = "./ipks"
 file_list = os.listdir(path)
 len = len(file_list)
 print(len)
